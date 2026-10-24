@@ -13,7 +13,7 @@ Built for **Fetch-A-Thon 3.0** (ASI:One Agent Challenge — From Intent to Actio
 | Handle | `@resqnet-emergency-co` |
 | Agent address | `agent1qdwn3q3ejl3uct3whqdzhvcchagapkslrrc58l84rlqkmvlvlrquj0u27fk` |
 | Agentverse profile | [https://agentverse.ai/agents/details/agent1qdwn3q3ejl3uct3whqdzhvcchagapkslrrc58l84rlqkmvlvlrquj0u27fk/profile](https://agentverse.ai/agents/details/agent1qdwn3q3ejl3uct3whqdzhvcchagapkslrrc58l84rlqkmvlvlrquj0u27fk/profile)|
-| ASI:One shared chat | PASTE_SHARED_CHAT_URL |
+| ASI:One shared chat | [https://asi1.ai/chat/efd83439-5dd0-4993-bfeb-0dad50e18b96?from=profile&handle=resqnet-emergency-co](https://asi1.ai/chat/efd83439-5dd0-4993-bfeb-0dad50e18b96?from=profile&handle=resqnet-emergency-co)|
 | Demo video | PASTE_VIDEO_URL |
 
 ## Problem
