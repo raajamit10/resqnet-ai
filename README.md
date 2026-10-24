@@ -16,7 +16,7 @@ Built for **Fetch-A-Thon 3.0** (ASI:One Agent Challenge — From Intent to Actio
 | **ResQNet Police Agent** | Police-station search, traffic/scene-safety advice | `agent1q0zthsypd7dct7jw0lg5ecyqfhdwj29q0h75tmj2sdwltqyvfxkeg3juqgc` | https://agentverse.ai/agents/details/agent1q0zthsypd7dct7jw0lg5ecyqfhdwj29q0h75tmj2sdwltqyvfxkeg3juqgc/profile |
 
 **ASI:One shared chat:** [Chat URL](https://asi1.ai/chat/efd83439-5dd0-4993-bfeb-0dad50e18b96?from=profile&handle=resqnet-emergency-co)
-**Demo video:** PASTE_VIDEO_URL
+**Demo video:** [VIDEO URL](https://youtu.be/aXAkuacDyPI)
 
 ## Problem
 
