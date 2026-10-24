@@ -12,7 +12,7 @@ Built for **Fetch-A-Thon 3.0** (ASI:One Agent Challenge — From Intent to Actio
 | Agent name | ResQNet Emergency Coordinator |
 | Handle | `@resqnet-emergency-co` |
 | Agent address | `agent1qdwn3q3ejl3uct3whqdzhvcchagapkslrrc58l84rlqkmvlvlrquj0u27fk` |
-| Agentverse profile | PASTE_AGENTVERSE_PROFILE_URL |
+| Agentverse profile | [PASTE_AGENTVERSE_PROFILE_URL ](https://agentverse.ai/agents/details/agent1qdwn3q3ejl3uct3whqdzhvcchagapkslrrc58l84rlqkmvlvlrquj0u27fk/profile)|
 | ASI:One shared chat | PASTE_SHARED_CHAT_URL |
 | Demo video | PASTE_VIDEO_URL |
 
