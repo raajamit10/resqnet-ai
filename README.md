@@ -102,4 +102,4 @@ ResQNet agent (uAgents, hosted on Agentverse)
 - Facility open status, bed availability and live traffic are not verified by the agent itself.
 - Planned: ASI Interactive Cards for location confirmation and facility selection, and separate specialist agents (fire, medical, police) for multi-agent coordination.
 
-> **Disclaimer:** ResQNet AI is a hackathon prototype and decision-support tool. In a real emergency, call 112 immediately.
+> **Disclaimer:** ResQNet AI is a hackathon prototype and decision-support tool.
